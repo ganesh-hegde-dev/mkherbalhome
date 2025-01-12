@@ -1,3 +1,3 @@
 # This is a frontend for MK Herbal Home Website 
 # Author: @GaneshHegde
-# Crefted in ReactJS
+# Crefted in ReactJS 
